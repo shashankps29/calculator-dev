@@ -14,6 +14,8 @@
 <h2>Shashank</h2>
 <h2>Pratap Singh</h2>
 
+<h2> Java Developer </h2>
+
 <form:form action="calculate" method="post" modelAttribute="calculator">
 
 Number 1 :
