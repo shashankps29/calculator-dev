@@ -17,7 +17,6 @@
 <h2> Java Developer </h2>
 
 
-<h1> I Am </h1>
 
 <form:form action="calculate" method="post" modelAttribute="calculator">
 
