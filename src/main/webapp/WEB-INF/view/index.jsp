@@ -12,6 +12,8 @@
 
 <h2>Spring MVC Calculator</h2>
 
+<h1> Calculator Deployement </h1>
+
 
 
 <form:form action="calculate" method="post" modelAttribute="calculator">
